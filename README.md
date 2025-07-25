@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedor criativo, comunicativo e focado em resultados.<br>Atuo com Java, AngularJS e outras ferramentas modernas para construir soluções eficientes, elegantes e funcionais.<br><br>Tenho paixão por transformar ideias em código e por resolver problemas com clareza e propósito. Estou sempre me adaptando, aprendendo e evoluindo, pois acredito que todo dia é uma chance de ser bem melhor que ontem.<br><br>Comprometido com a qualidade, a inovação e o impacto real.</p>
+<p align="left">Desenvolvedor criativo, comunicativo e focado em resultados. Atuo com Java, AngularJS e outras ferramentas modernas para construir soluções eficientes, elegantes e funcionais. Tenho paixão por transformar ideias em código e por resolver problemas com clareza e propósito. Estou sempre me adaptando, aprendendo e evoluindo, pois acredito que todo dia é uma chance de ser bem melhor que ontem. Sou comprometido com a qualidade, a inovação e o impacto real no que desenvolvo.</p>
 
 ###
 
